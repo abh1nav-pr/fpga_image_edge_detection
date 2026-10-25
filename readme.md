@@ -60,8 +60,8 @@ fpga_edge_detection/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com//.git
-cd 
+git clone https://github.com/abh1nav-pr/fpga_image_edge_detection.git
+cd fpga_image_edge_detection
 ```
 
 ### 2. Install Python Dependencies
